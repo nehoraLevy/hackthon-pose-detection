@@ -1,1 +1,1 @@
-# hacthon-pose-detection
+# hackthon-pose-detection
