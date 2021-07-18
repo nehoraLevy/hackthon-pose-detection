@@ -1,10 +1,16 @@
 👪 Hackaton-project: "Safe-Life"
 1.Table of Contents
+
 2. About The Project
+
 3. built-with
+
 4. Installation
+
 5. How-to-use?
+
 6. Credits
+
 About The Project
 "Safe Life" identifies when an elderly person is in distress and calls for help. The system detects person fall, by a "pose detection" algorithm for identifying the movment of the human body. If the system detects a fall, it makes a phone contact with a predefine person: relative, staff member, etc.
 For the phone contact, we used the "twilio" library.
