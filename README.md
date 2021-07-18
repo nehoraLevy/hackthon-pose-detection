@@ -1,4 +1,5 @@
 👪 Hackaton-project: "Safe-Life"
+
 1.Table of Contents
 
 2. About The Project
@@ -34,10 +35,17 @@ To use the system, you need to install a camera in the desired location, and set
 
 Credits
 This project was done with my Hackaton group:
-😃Nehora Levi.
+
+😃Nehora Levy.
+
 😃Tovi Merzbach.
+
 😃Hodaya Twersky.
+
 😃Tzofiya Kruk.
+
 😃Marom Sulami
+
 😃Haleli Alcalay.
+
 😃Shir Shriber.
