@@ -13,7 +13,8 @@ An article about our project: http://ch7.io/ab5Pz
 
 Demo of "pose detection" algorithm:
 
-jump
+![image](https://user-images.githubusercontent.com/74182265/126083865-b812d2b9-0265-4d9b-99e1-cb371c440217.png)
+
 
 built-with
 Build in Python, use OpenCV open source, including machine learning.
